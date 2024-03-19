@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "id": "678e",
+      "leaderName": "Akash",
+      "numberOfMembers": "5",
+      "projectName": "Pet Adoption",
+      "domain": "Web Technology",
+      "driveLink": "link"
+    },
+    {
+      "id": "72c6",
+      "leaderName": "Ashwin",
+      "numberOfMembers": "3",
+      "projectName": "Project Management",
+      "domain": "Android Development",
+      "driveLink": "link2"
+    }
+  ]
+}

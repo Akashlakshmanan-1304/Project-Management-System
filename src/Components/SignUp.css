@@ -1,0 +1,53 @@
+.Signupcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.Signupform{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+width: 40%;
+padding: 50px;
+    color: rgb(189, 74, 255);
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+input{
+    width: 80%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+input::placeholder{
+    color:#0000008a;
+}
+button{
+    width: 80%;
+padding: 10px;
+background: #6524b4;
+border: none;
+border-radius: 5px;
+color: #fff;
+cursor: pointer;
+font-size: 16px;
+
+margin-top: 20px;
+margin-bottom: 10px;
+}
+
+button:hover{
+    background-color:#9854ea ;
+transition: ease-in-out 0.7s;
+}
+p:hover{
+    color:#9854ea ;
+transition: ease-in-out 0.2s;
+}

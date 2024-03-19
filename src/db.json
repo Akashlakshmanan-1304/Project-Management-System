@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "name",
+      "username": "username",
+      "email": "email",
+      "password": "password",
+      "id": "47fa"
+    },
+    {
+      "name": "Akash",
+      "username": "akash",
+      "password": "akash1304",
+      "email": "a@gmail.com",
+      "id": "959b"
+    },
+    {
+      "id": "550a",
+      "name": "Akash",
+      "username": "a",
+      "password": "a",
+      "email": "a@gmail.com"
+    },
+    {
+      "id": "e291",
+      "name": "admin",
+      "username": "admin",
+      "password": "admin",
+      "email": "admin@gmail.com"
+    }
+  ]
+}
